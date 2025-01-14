@@ -1,0 +1,2 @@
+# Architectural-Firm-Data-Analytics-Distribution-Designation-Trends-and-Digital-Presence-in-Bangladesh
+This project analyzes the Institute of Architects Bangladesh (IAB) dataset, focusing on firm distribution, roles, growth trends, and digital presence. Using Pandas, NumPy, and Matplotlib, key metrics like regional concentration, firm establishment over time, and digital presence are visualized, offering strategic insights for market expansion.
